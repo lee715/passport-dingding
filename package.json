@@ -1,0 +1,38 @@
+{
+  "name": "passport-dingding",
+  "version": "0.1.0",
+  "description": "dingding authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "dingding",
+    "auth",
+    "authentication"
+  ],
+  "author": {
+    "name": "leegarrett",
+    "email": "leegarrett0306@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lee715/passport-dingding.git"
+  },
+  "bugs": {
+    "url": "http://github.com/lee715/passport-dingding/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/index.js",
+  "dependencies": {
+    "passport-oauth2": "git@github.com:lee715/passport-oauth2.git#master",
+    "querystring": "^0.2.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/lee715/passport-dingding#readme"
+}
