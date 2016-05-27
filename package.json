@@ -1,5 +1,5 @@
 {
-  "name": "passport-dingtalk",
+  "name": "passport-dingding",
   "version": "0.1.0",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
