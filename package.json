@@ -1,6 +1,6 @@
 {
   "name": "passport-dingding",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -28,7 +28,7 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
-    "passport-oauth2": "ssh+git@github.com:lee715/passport-oauth2.git#master",
+    "passport-oauth2": "1.x.x",
     "querystring": "^0.2.0",
     "urllib": "^2.9.1"
   },
