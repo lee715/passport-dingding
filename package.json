@@ -28,7 +28,7 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
-    "passport-oauth2": "github:lee715/passport-oauth2.git",
+    "passport-oauth2": "https://github.com/lee715/passport-oauth2/archive/v1.3.1.tar.gz",
     "querystring": "^0.2.0",
     "urllib": "^2.9.1"
   },
